@@ -4,13 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "description": "To run this example:",
-  "keywords": [
-    "nodejs",
-    "express"
-  ],
+  "keywords": ["nodejs", "express"],
   "author": "Jeef Rojas",
   "dependencies": {
     "express": "^4.17.3",
